@@ -1,4 +1,4 @@
-Local authority name,House Prices,Year,Last Value,Rank
+name,value,Year,lastValue,rank
 Barking and Dagenham,49995,1996.1,49000,32
 Barking and Dagenham,50000,1996.2,49995,32
 Barking and Dagenham,49995,1996.3,50000,32
